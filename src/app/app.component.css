@@ -1,0 +1,7 @@
+.box {
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    outline: 1px dotted black;
+    
+}
